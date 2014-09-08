@@ -1,0 +1,8 @@
+digraph "WordGameEvent"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{WordGameEvent\n|+ _invocationList\l+ isDelegate\l+ methodName\l+ rawMethodName\l+ target\l|+ WordGameEvent()\l+ WordGameEvent()\l+ WordGameEvent()\l+ Add()\l+ Add()\l+ Add()\l+ GetInvocationList()\l+ Invoke()\l+ Remove()\l+ Remove()\l+ Remove()\l+ Remove()\l+ SetDelegate()\l+ SetDelegate()\l+ SetDelegate()\l+ operator bool()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

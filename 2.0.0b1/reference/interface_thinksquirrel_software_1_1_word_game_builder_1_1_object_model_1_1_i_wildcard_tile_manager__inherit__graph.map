@@ -1,0 +1,4 @@
+<map id="IWildcardTileManager" name="IWildcardTileManager">
+<area shape="rect" id="node3" href="$class_thinksquirrel_software_1_1_word_game_builder_1_1_gameplay_1_1_wildcard_tile_manager.html" title="A manager class for selecting wildcard tiles. " alt="" coords="5,520,160,597"/>
+<area shape="rect" id="node2" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="9,5,156,347"/>
+</map>

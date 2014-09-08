@@ -1,0 +1,5 @@
+<map id="ILetterTileDisplay" name="ILetterTileDisplay">
+<area shape="rect" id="node4" href="$class_thinksquirrel_software_1_1_word_game_builder_1_1_tiles_1_1_letter_tile.html" title="A standard letter tile. Includes support for selection, wildcard tiles, multiple colors, input, and state querying. " alt="" coords="5,867,179,1237"/>
+<area shape="rect" id="node2" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html" title="An interface defining a letter tile. Implementations must derive from MonoBehaviour in some form..." alt="" coords="23,395,161,648"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="19,5,165,347"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WildcardTileManager" name="WildcardTileManager">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html" title="The base class for all Word Game Builder components. " alt="" coords="5,425,275,778"/>
+<area shape="rect" id="node6" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_wildcard_tile_manager.html" title="An interface defining a manager for selecting wildcard tiles. Implementations must derive from MonoBe..." alt="" coords="299,561,456,642"/>
+<area shape="rect" id="node8" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="303,6,451,375"/>
+</map>

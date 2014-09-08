@@ -1,0 +1,4 @@
+<map id="ITilePool" name="ITilePool">
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html" title="A class that manages an instance pool of letter tiles. " alt="" coords="5,771,160,1141"/>
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="9,5,156,347"/>
+</map>

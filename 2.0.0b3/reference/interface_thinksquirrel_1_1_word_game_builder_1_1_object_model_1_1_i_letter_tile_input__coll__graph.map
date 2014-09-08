@@ -1,0 +1,4 @@
+<map id="ILetterTileInput" name="ILetterTileInput">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html" title="An interface defining a letter tile. Implementations must derive from MonoBehaviour in some form..." alt="" coords="12,369,155,602"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="10,6,157,319"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ExampleViewModel.UiContext" name="ExampleViewModel.UiContext">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_agent_context.html" title="Contains information about the agent. " alt="" coords="5,225,227,322"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_game_context.html" title="Contains information about the game. " alt="" coords="252,209,476,338"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_languages_context.html" title="Contains information about languages. " alt="" coords="500,193,707,354"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_player_context.html" title="Contains information about the player. " alt="" coords="733,137,957,410"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_word_result_context.html" title="Contains information about a word check. " alt="" coords="982,193,1193,354"/>
+</map>

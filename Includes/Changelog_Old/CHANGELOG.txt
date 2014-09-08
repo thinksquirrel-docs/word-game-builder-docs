@@ -1,0 +1,32 @@
+Word Game Builder Changelog
+
+NOTE: If you have modified your language files, remember to back them up before upgrading!
+
+******* VERSION 1.0.2 ********
+If you have modified your language files, please follow this upgrade guide:
+	* It is highly recommended to export your word lists before upgrading to this version.
+	* Do not replace your language files when upgrading the package.
+	* Once you install the new version, open the Language Editor at Thinksquirrel > Word Game Builder > Language Editor and click "Rebuild Prefix Table" for every language.
+	* Do not interrupt this process!
+	* Please note that once upgrading to this version, all existing language files will be updated and will not work in an older version.
+
+Word Game Builder:
+	* Changed the underlying word set structure - it now consumes far less memory and performance has been significantly increased, especially on older mobile devices
+	* Fixed an issue with the prefix heuristic within the word set. This will require custom langauge files to be rebuilt (follow the upgrade guide above)
+	* Fixed various other bugs within the word set
+	* Fixed a bug with Language.RemoveAll()
+	* Fixed an issue with removing and reloading languages multiple times
+	* Fixed a stray object reference issue with unloaded languages
+	
+******* VERSION 1.0.1 ********
+Word Game Builder:
+	* Added set accessor for WordGamePlayer.score
+	* Moved menu options to unified Thinksquirrel menu
+	* Added click and press events for wildcard tiles
+	* Added OnTileSelect message
+	* Fixed issues with the blank tile implementation
+Example Project:
+	* Modified prefabs to work with new blank tile implementation
+
+******** VERSION 1.0.0 ********
+Initial release.

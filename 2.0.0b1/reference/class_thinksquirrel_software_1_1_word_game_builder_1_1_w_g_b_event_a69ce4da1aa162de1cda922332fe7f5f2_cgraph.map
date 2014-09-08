@@ -1,0 +1,4 @@
+<map id="Invoke" name="Invoke">
+<area shape="rect" id="node3" href="$class_thinksquirrel_software_1_1_word_game_builder_1_1_w_g_b_event.html#ae0a1971d24b447511741cc2c90595e3f" title="Invokes the event directly. This will never run outside of play mode. " alt="" coords="226,5,286,33"/>
+<area shape="rect" id="node5" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html#a9fd98ad6edfbda23fd09f763596b8488" title="Invokes the method methodName in time seconds. " alt="" coords="116,57,396,117"/>
+</map>

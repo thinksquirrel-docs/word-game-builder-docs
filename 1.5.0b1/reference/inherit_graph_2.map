@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_ui_context.html" title="Represents a base class for all user interface contexts. " alt="" coords="5,115,203,141"/>
+<area shape="rect" id="node2" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_agent_context.html" title="Contains information about the agent. " alt="" coords="253,5,472,32"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_game_context.html" title="Contains information about the game. " alt="" coords="253,56,473,83"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_languages_context.html" title="Contains information about languages. " alt="" coords="261,107,464,149"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_player_context.html" title="Contains information about the player. " alt="" coords="251,173,474,200"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_software_1_1_word_game_builder_example_1_1_example_view_model_1_1_word_result_context.html" title="Contains information about a word check. " alt="" coords="259,225,467,266"/>
+</map>

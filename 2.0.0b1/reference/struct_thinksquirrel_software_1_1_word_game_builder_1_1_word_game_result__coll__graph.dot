@@ -1,0 +1,8 @@
+digraph "WordGameResult"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{WordGameResult\n|+ m_AllWords\l+ m_HasValue\l+ m_Input\l+ m_IsValid\l+ m_LetterTiles\l+ m_Score\l+ m_WasOrdered\l+ m_Word\l+ allWords\l+ empty\l+ hasValue\l+ input\l+ isValid\l+ letterTiles\l+ score\l+ wasOrdered\l+ word\l|}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

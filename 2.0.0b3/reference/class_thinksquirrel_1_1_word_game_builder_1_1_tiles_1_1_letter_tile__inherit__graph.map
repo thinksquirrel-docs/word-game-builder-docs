@@ -1,0 +1,8 @@
+<map id="LetterTile" name="LetterTile">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html" title="The base class for all Word Game Builder components. " alt="" coords="5,651,275,951"/>
+<area shape="rect" id="node4" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_selectable_letter_tile.html" title="An interface defining a letter tile that can be selected and deselected. Implementations must derive ..." alt="" coords="299,711,455,891"/>
+<area shape="rect" id="node5" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html" title="An interface defining a letter tile. Implementations must derive from MonoBehaviour in some form..." alt="" coords="487,369,629,602"/>
+<area shape="rect" id="node7" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile_input.html" title="An interface defining letter tile input events. " alt="" coords="479,751,637,851"/>
+<area shape="rect" id="node8" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile_display.html" title="An interface defining letter tile colors and labels. " alt="" coords="662,725,839,878"/>
+<area shape="rect" id="node6" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="484,6,632,319"/>
+</map>

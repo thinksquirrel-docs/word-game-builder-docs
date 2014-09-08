@@ -1,0 +1,10 @@
+<map id="WordGameEventState" name="WordGameEventState">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_wildcard_tile_manager.html" title="An interface defining a pool of letter tiles. Implementations must derive from MonoBehaviour in some ..." alt="" coords="5,625,160,703"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="339,5,485,347"/>
+<area shape="rect" id="node4" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_tile_pool.html" title="An interface defining a pool of letter tiles. Implementations must derive from MonoBehaviour in some ..." alt="" coords="185,545,319,783"/>
+<area shape="rect" id="node5" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html" title="An interface defining a letter tile. Implementations must derive from MonoBehaviour in some form..." alt="" coords="343,537,481,791"/>
+<area shape="rect" id="node6" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_agent.html" title="An interface defining a word game player. Implementations must derive from MonoBehaviour in some form..." alt="" coords="505,611,631,717"/>
+<area shape="rect" id="node9" href="$interface_thinksquirrel_software_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_player.html" title="An interface defining a word game player. Implementations must derive from MonoBehaviour in some form..." alt="" coords="655,486,827,842"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_software_1_1_word_game_builder_1_1_language.html" title="Represents a language. " alt="" coords="851,398,1041,930"/>
+<area shape="rect" id="node10" href="$class_thinksquirrel_software_1_1_word_game_builder_1_1_w_g_b_event.html" title="A serializable class for event binding. " alt="" coords="1067,449,1261,879"/>
+</map>
