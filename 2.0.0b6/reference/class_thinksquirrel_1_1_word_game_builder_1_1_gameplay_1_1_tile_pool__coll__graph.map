@@ -1,0 +1,5 @@
+<map id="TilePool" name="TilePool">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html" title="The base class for all Word Game Builder components. " alt="" coords="5,367,275,667"/>
+<area shape="rect" id="node4" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_tile_pool.html" title="An interface defining a pool of letter tiles. Implementations must derive from MonoBehaviour in some ..." alt="" coords="298,373,454,660"/>
+<area shape="rect" id="node5" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_mono_behaviour.html" title="An interface representation of a MonoBehaviour. " alt="" coords="262,5,410,319"/>
+</map>

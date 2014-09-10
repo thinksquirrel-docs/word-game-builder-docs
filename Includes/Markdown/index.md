@@ -2,22 +2,12 @@ Reference Manual {#mainpage}
 ===
 
 ## Introduction
-Welcome to the Word Game Builder documentation. The following pages contain a Getting Started Guide, Advanced Topics, and a Component Reference. Information about the Word Game Builder API is available as well.
+Welcome to the Word Game Builder Reference Manual. The following pages contain
+detailed information about Word Game Builder components and the API. For product support, please
+visit the [Help
+Center](https://support.thinksquirrel.com/hc/categories/200174784-Word-Game-Builder).
 
 ## Contents
-
-@subpage guide
-
-- @ref installation
-- @ref importinglanguages
-- @ref interface
-- @ref wordgamedesign
-- @ref events
-- @ref example
-  
-@subpage advanced
-
-- @ref performance
 
 @subpage components
 
@@ -37,21 +27,18 @@ Welcome to the Word Game Builder documentation. The following pages contain a Ge
 		- NGUI
 			- @ref lettertilenguicontrol
 			- @ref lettertilenguiinput
-		- uGUI
-			- @ref lettertileuguiinput
+		- Unity UI
+			- @ref lettertileuiinput
 - Gameplay
 	- @ref tilepool
 	- @ref wildcardtilemanager
 	- @ref wordgameagent
 	- @ref wordgameplayer
 
-@subpage editioncomparison
-
-@subpage changelog
-
 ## Links
 
-- [Word Game Builder support forum](https://thinksquirrel.com/forum/word-game-builder-support)
+- [Help Center](https://support.thinksquirrel.com/hc/categories/200174784-Word-Game-Builder)
+- [Community](https://support.thinksquirrel.com/hc/communities/public/topics/200139330-Word-Game-Builder)
 
 <br>
 
@@ -59,5 +46,5 @@ Welcome to the Word Game Builder documentation. The following pages contain a Ge
 <table width=80% align=center><tr>
 <td width=33% align=left></td>
 <td width=34% align=center>[Back to Top](@ref index)</td>
-<td width=33% align=right>@ref guide >></td>
+<td width=33% align=right>@ref components >></td>
 </tr></table>
