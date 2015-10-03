@@ -1,0 +1,5 @@
+<map id="CreateTilePool" name="CreateTilePool">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#ab57b4a4297b7972dbe73dbd6aeeb6bc2" title="Logs a prefixed erorr. " alt="" coords="187,5,396,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#acea8c72132872acbe9b57f7919526102" title="Finds a loaded language by identifier. " alt="" coords="173,71,410,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aebcb73d5c2851cd30aae66c3cb66977c" title="Gets the psuedo&#45;random number generator for the language. " alt="" coords="160,137,423,193"/>
+</map>

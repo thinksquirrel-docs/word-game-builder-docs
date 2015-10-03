@@ -1,0 +1,4 @@
+<map id="Copy" name="Copy">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a8d44bcde9835062d569725680e4e10cf" title="Creates a language with the given name and identifier (file name). " alt="" coords="149,5,209,32"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#af9fa1744a6ce7695fcfca4f07cae0aaa" title="Imports the words of a language from a CSV file. " alt="" coords="105,56,252,83"/>
+</map>

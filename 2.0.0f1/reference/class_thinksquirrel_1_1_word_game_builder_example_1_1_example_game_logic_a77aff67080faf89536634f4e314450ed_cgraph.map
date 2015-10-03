@@ -1,0 +1,4 @@
+<map id="OnPlayerWordResult" name="OnPlayerWordResult">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_agent.html#a4bcc8aa30dc4f3f6f9e257fd064d955f" title="Finds a set of words, based on the player&#39;s current held tiles. " alt="" coords="197,5,467,47"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_tile_pool.html#ae66f37155b51e19efe7a39369371c2c1" title="Distributes the specified amount of tiles to the specified IWordGamePlayer, up to the player&#39;s maximu..." alt="" coords="215,71,449,112"/>
+</map>

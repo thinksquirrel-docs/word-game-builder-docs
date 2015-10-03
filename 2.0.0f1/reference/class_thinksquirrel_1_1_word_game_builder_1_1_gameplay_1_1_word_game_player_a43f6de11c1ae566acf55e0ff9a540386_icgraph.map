@@ -1,0 +1,6 @@
+<map id="GetAllPlayers" name="GetAllPlayers">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile_1_1_selection_info.html#a4cb9bd9c93febadb526c1213c6c43923" title="Adds all active players in the scene to this tile. " alt="" coords="162,5,373,61"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a439806f67a5cd8e16a635d77233a46d4" title="Destroys a list of tiles from the scene, if the tiles are associated with the pool. " alt="" coords="163,86,372,127"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ade8025f6e7f46b6f4d654080232cb1e0" title="Destroys all tiles that were created by this tile pool (whether it is currently in the pool or not)..." alt="" coords="156,151,379,193"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a00f3fc43c17cf271b4512aac93c13a4c" title="Destroys the tile from the scene, if the tile is associated with the pool. " alt="" coords="163,217,372,258"/>
+</map>

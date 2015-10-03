@@ -1,0 +1,58 @@
+.tabs, .tabs2, .tabs3, .navpath ul {
+    background-image: none;
+    background-color: #B97A4D;
+	border: none;
+	border-bottom: 1px solid #9E6339;
+}
+
+.navpath li {
+	background-image: none;
+	border-right: 1px solid #9E6339;
+}
+
+.navpath li.navelem a {
+	text-shadow: none;	
+}
+
+.navpath li.navelem a:hover {
+  color: #FFFFFF;
+}
+
+.tablist li {
+    background-image: none;
+	background-color: #B97A4D;
+	text-shadow: none;
+	border-right: 1px solid #9E6339;
+}
+
+.tablist a {
+    background-image: none;
+    background-color: #B97A4D;
+	text-shadow: none;	
+}
+
+.tablist a:hover {
+    background-image: none;
+    background-color: #B97A4D;
+	text-shadow: none;
+}
+
+.tablist li.current a {
+    background-image: none;
+    background-color: #B97A4D;
+	text-shadow: none;
+}
+
+div.ah, span.ah {
+	background-image: none;
+	background-color: #AB6E42;
+	border: none;
+	box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+	padding: inherit;
+}
+
+.memproto, dl.reflist dt {
+	background-image: none;
+}

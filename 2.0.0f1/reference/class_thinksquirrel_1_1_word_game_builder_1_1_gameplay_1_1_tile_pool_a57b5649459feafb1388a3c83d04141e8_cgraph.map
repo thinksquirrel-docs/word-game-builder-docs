@@ -1,0 +1,5 @@
+<map id="ResetTilePool" name="ResetTilePool">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#acea8c72132872acbe9b57f7919526102" title="Finds a loaded language by identifier. " alt="" coords="169,5,406,47"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html#a74e10633348eb8098e688500c2679688" title="This should control tile visibility, colliders, and triggers. " alt="" coords="171,71,403,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aebcb73d5c2851cd30aae66c3cb66977c" title="Gets the psuedo&#45;random number generator for the language. " alt="" coords="156,137,419,193"/>
+</map>

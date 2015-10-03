@@ -1,0 +1,4 @@
+<map id="LogError" name="LogError">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="124,5,343,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a9a6655be91f9a087ac4d460821885fc3" title="Spawns a brand new tile into the pool, based on the specified letter. " alt="" coords="129,71,338,112"/>
+</map>

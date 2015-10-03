@@ -1,0 +1,5 @@
+<map id="CollapseSet" name="CollapseSet">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a3beb481648a7e11edf80adb71ba5a5cc" title="Unloads a language by identifier. " alt="" coords="145,5,404,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a7f1c6752a7793902e86a28ab8971e256" title="Unloads the first occurance of a language by name. " alt="" coords="153,71,397,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#ae181b60d8c24114b8c417b74a51bff12" title="Completely unloads all languages. " alt="" coords="170,136,379,177"/>
+</map>

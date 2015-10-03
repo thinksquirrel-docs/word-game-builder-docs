@@ -1,0 +1,6 @@
+<map id="FindByIdentifier" name="FindByIdentifier">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="164,5,383,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a57b5649459feafb1388a3c83d04141e8" title="Resets the tile pool. " alt="" coords="166,71,381,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a9a6655be91f9a087ac4d460821885fc3" title="Spawns a brand new tile into the pool, based on the specified letter. " alt="" coords="169,136,378,177"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a9ac0166c5bf9e7e44b056d0fc3e7e355" title="Deep copy this language to a new language. A unique name will be assigned to the language identifier..." alt="" coords="247,202,299,229"/>
+</map>

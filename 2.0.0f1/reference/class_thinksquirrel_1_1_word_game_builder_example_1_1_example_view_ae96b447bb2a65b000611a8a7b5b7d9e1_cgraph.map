@@ -1,0 +1,3 @@
+<map id="OnReset" name="OnReset">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_game_context.html#a8afcd440a4b674ac210e7dde478f6464" title="Reset all tiles in the current game. Called by the UI. " alt="" coords="127,5,405,61"/>
+</map>

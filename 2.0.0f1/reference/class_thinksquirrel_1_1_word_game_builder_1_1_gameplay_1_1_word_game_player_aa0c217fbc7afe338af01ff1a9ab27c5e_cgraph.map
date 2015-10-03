@@ -1,0 +1,3 @@
+<map id="SelectTile" name="SelectTile">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_selectable_letter_tile.html#a7cea8f61a11519c352e9b66991c49c12" title="Selects the tile from a list of currently selected tiles, obeying rules for tile selection. " alt="" coords="132,5,352,61"/>
+</map>
