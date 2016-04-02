@@ -1,0 +1,12 @@
+<map id="LogWarning" name="LogWarning">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile.html#aced12388d9c3fd45a02a5049a2276a09" title="Simulates tile selection/deselection event from user input (either a press or a click). " alt="" coords="165,5,375,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_agent.html#a0b8bd05e5893d7ed1dfeb730058a4330" title="Finds a set of words, based on a list of letter tiles. " alt="" coords="144,71,396,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a2035ba0afa36778a6f4f664af777e7e6" title="Optimizes a word set for fast searches. This may take a while and should be done offline &#45; not at run..." alt="" coords="165,136,375,177"/>
+<area shape="rect" id="node11" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a312f837c5c7eadc07bb60c8d19a281dc" title="Returns the amount of words that starts with the specified prefix. " alt="" coords="165,201,375,243"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a621a852207d53e91a83a1667350e56a4" title="Exports the words of a language to a CSV file. " alt="" coords="446,99,705,140"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aebcb73d5c2851cd30aae66c3cb66977c" title="Gets the psuedo&#45;random number generator for the language. " alt="" coords="444,165,707,221"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a384e442554038531fc8b43186a013323" title="Saves the tile distribution dictionary. " alt="" coords="755,73,1003,115"/>
+<area shape="rect" id="node8" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="769,139,988,180"/>
+<area shape="rect" id="node9" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a57b5649459feafb1388a3c83d04141e8" title="Resets the tile pool. " alt="" coords="771,204,986,245"/>
+<area shape="rect" id="node10" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a40a5fa0daad2bab4f247df0a2474b286" title="Asynchronously returns all words that begin with a prefix, up to maxIterations. " alt="" coords="774,269,983,311"/>
+</map>

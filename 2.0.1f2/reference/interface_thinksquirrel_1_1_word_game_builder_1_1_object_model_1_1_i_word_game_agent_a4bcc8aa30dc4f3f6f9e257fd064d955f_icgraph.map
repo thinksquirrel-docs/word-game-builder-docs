@@ -1,0 +1,4 @@
+<map id="FindWords" name="FindWords">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_game_logic.html#a2fd969ff4cd73e8d3201f42a6d5126b5" title="This callback fires whenever tiles are distributed by the tile pool. " alt="" coords="139,5,439,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_game_logic.html#a77aff67080faf89536634f4e314450ed" title="This callback fires after the player submits a word and it has been checked by the word checker..." alt="" coords="163,71,415,127"/>
+</map>

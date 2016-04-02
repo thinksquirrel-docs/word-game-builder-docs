@@ -1,0 +1,6 @@
+<map id="LangToIdentifier" name="LangToIdentifier">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aced658f76b08a71579217c1dbf572571" title="Loads all language files from resources. " alt="" coords="165,5,420,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#acea8c72132872acbe9b57f7919526102" title="Finds a loaded language by identifier. " alt="" coords="174,71,411,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a7f1c6752a7793902e86a28ab8971e256" title="Unloads the first occurance of a language by name. " alt="" coords="171,136,415,177"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#ab4cbfc625a3798f8175fc15ef6621aec" title="Compress the set into compressed form to save memory. Also clears the runtime set. " alt="" coords="468,136,677,177"/>
+</map>

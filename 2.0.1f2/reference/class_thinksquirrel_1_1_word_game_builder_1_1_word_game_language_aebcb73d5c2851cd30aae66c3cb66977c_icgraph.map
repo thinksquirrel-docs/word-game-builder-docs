@@ -1,0 +1,6 @@
+<map id="GetRandomNumberGenerator" name="GetRandomNumberGenerator">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a384e442554038531fc8b43186a013323" title="Saves the tile distribution dictionary. " alt="" coords="247,5,495,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="261,71,480,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a57b5649459feafb1388a3c83d04141e8" title="Resets the tile pool. " alt="" coords="263,136,478,177"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a40a5fa0daad2bab4f247df0a2474b286" title="Asynchronously returns all words that begin with a prefix, up to maxIterations. " alt="" coords="266,201,475,243"/>
+</map>

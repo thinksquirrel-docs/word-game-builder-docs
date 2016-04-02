@@ -1,0 +1,7 @@
+<map id="Stop" name="Stop">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#acfa31e40db4ac33bf46b9c7c89916e25" title="Abort this task, and wait until it has ended, or the specified amount of time (in seconds) has passed..." alt="" coords="134,5,353,47"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_player.html#af3def0a5043ee3b759b0acd489cf1e44" title="Clears the player&#39;s selected tiles. Also deselected them if they implement ISelectableLetterTile. " alt="" coords="124,71,363,127"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a03e573ffc9e274bef8f917c6c5894697" title="Gets the Letter struct for the specified string (Letter.text). " alt="" coords="139,152,348,193"/>
+<area shape="rect" id="node5" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_player.html#aa0c217fbc7afe338af01ff1a9ab27c5e" title="Attempts to select a tile. If the tile implements ISelectableLetterTile, this follows selection rules..." alt="" coords="110,217,377,259"/>
+<area shape="rect" id="node6" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_player.html#a87d83908a2f954bac475c23e83fc2786" title="Submits the word for checking against the current langauge&#39;s word list. " alt="" coords="103,283,384,324"/>
+</map>

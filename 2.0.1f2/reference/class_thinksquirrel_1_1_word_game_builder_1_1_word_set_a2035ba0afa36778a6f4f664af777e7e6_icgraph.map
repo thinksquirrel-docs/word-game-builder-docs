@@ -1,0 +1,8 @@
+<map id="Optimize" name="Optimize">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a621a852207d53e91a83a1667350e56a4" title="Exports the words of a language to a CSV file. " alt="" coords="130,31,389,72"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aebcb73d5c2851cd30aae66c3cb66977c" title="Gets the psuedo&#45;random number generator for the language. " alt="" coords="128,97,391,153"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a384e442554038531fc8b43186a013323" title="Saves the tile distribution dictionary. " alt="" coords="439,5,687,47"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="453,71,672,112"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a57b5649459feafb1388a3c83d04141e8" title="Resets the tile pool. " alt="" coords="455,136,670,177"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a40a5fa0daad2bab4f247df0a2474b286" title="Asynchronously returns all words that begin with a prefix, up to maxIterations. " alt="" coords="501,202,624,229"/>
+</map>

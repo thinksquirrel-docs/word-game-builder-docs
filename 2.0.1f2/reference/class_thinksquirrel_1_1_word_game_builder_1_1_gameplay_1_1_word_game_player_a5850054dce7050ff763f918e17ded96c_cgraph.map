@@ -1,0 +1,7 @@
+<map id="SubmitWord" name="SubmitWord">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_checker.html#addf90951538425908ce504b2ed4ab352" title="Checks the input word against the dictionary, asynchronously on another thread. " alt="" coords="148,71,421,112"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#ae0a1971d24b447511741cc2c90595e3f" title="Invokes the event directly. This will never run outside of play mode. " alt="" coords="180,136,389,177"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a74d46304f773f12c82b4c083696c7855" title="Creates a task on a background thread. " alt="" coords="469,5,679,47"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a61696d12bced86b6c979f001fa79df78" title="Dispatches an action onto the main thread. " alt="" coords="469,71,679,112"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a03e573ffc9e274bef8f917c6c5894697" title="Gets the Letter struct for the specified string (Letter.text). " alt="" coords="469,136,679,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="OnWildcardTileSelect" name="OnWildcardTileSelect">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_letter_tile.html#a23ae8895eb9f7b11c8dbb163b3b9bf84" title="Remove the wildcard letter on a tile. " alt="" coords="212,5,468,47"/>
+<area shape="rect" id="node3" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_word_game_player.html#ab5560143617a2009adec410bbb4531c3" title="Attempts to deselect a tile. If the tile implements ISelectableLetterTile, this follows selection rul..." alt="" coords="200,71,480,112"/>
+</map>

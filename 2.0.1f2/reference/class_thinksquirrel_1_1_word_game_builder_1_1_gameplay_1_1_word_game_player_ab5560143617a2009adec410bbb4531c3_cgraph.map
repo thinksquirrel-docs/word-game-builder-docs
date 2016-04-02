@@ -1,0 +1,3 @@
+<map id="DeselectTile" name="DeselectTile">
+<area shape="rect" id="node2" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_selectable_letter_tile.html#a74eeb883bbaa06341853567ebb42b8e3" title="Deselects the tile from a list of currently selected tiles, obeying rules for tile selection..." alt="" coords="147,5,367,61"/>
+</map>

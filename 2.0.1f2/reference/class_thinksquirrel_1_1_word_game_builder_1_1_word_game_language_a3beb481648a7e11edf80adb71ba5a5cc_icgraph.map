@@ -1,0 +1,4 @@
+<map id="RemoveByIdentifier" name="RemoveByIdentifier">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a8d44bcde9835062d569725680e4e10cf" title="Creates a language with the given name and identifier (file name). " alt="" coords="185,5,245,32"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a1c2939b9bbc0e51d2752798232f76567" title="Deep copy this language to a new language. " alt="" coords="293,5,345,32"/>
+</map>

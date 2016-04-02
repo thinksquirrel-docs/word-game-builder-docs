@@ -1,0 +1,3 @@
+<map id="SelectWildcardTile" name="SelectWildcardTile">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile.html#aced12388d9c3fd45a02a5049a2276a09" title="Simulates tile selection/deselection event from user input (either a press or a click). " alt="" coords="184,5,393,47"/>
+</map>

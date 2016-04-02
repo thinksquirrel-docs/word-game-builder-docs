@@ -1,0 +1,4 @@
+<map id="OnWildcardPanelTileSelect" name="OnWildcardPanelTileSelect">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_languages_context.html#a7d4671b57eb398f31441d7d72b1293b3" title="Change the current language. Called by the UI. " alt="" coords="245,5,503,61"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_example_1_1_example_view_model_1_1_player_context.html#af3def0a5043ee3b759b0acd489cf1e44" title="Clears the current tile selection. Called by the UI. " alt="" coords="233,85,515,141"/>
+</map>

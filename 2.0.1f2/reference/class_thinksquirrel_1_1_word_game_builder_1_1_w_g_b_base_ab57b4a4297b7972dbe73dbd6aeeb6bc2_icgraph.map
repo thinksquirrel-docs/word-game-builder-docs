@@ -1,0 +1,9 @@
+<map id="LogError" name="LogError">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_editor_1_1_editor_windows_1_1_language_editor.html#a07475b4f457e86a6d6457d418a07fbb9" title="Saves a language as an asset. " alt="" coords="131,5,376,61"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_editor_1_1_w_g_b_editor_helpers.html#a09809bc8cd6e5c18cb68031e72d91d45" title="Draws the inspector for a WGBEvent. " alt="" coords="431,46,665,87"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#ad93cb8a56a2c82e24f9073821654d986" title="Creates the tile pool. " alt="" coords="144,137,363,178"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a9a6655be91f9a087ac4d460821885fc3" title="Spawns a brand new tile into the pool, based on the specified letter. " alt="" coords="149,202,358,243"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a4e0d419cd552e37d7989409f30cd277c" title="Sets the culture of a language. " alt="" coords="149,267,358,309"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a621a852207d53e91a83a1667350e56a4" title="Exports the words of a language to a CSV file. " alt="" coords="124,333,383,374"/>
+<area shape="rect" id="node8" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#ab869ee740498825018644ba178e8fb57" title="Expands the set from compressed form. Yields when progress is updated and can be used in a coroutine..." alt="" coords="149,398,358,439"/>
+</map>

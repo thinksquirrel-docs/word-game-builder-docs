@@ -1,0 +1,8 @@
+<map id="Invoke" name="Invoke">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile.html#aced12388d9c3fd45a02a5049a2276a09" title="Simulates tile selection/deselection event from user input (either a press or a click). " alt="" coords="139,5,349,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a439806f67a5cd8e16a635d77233a46d4" title="Destroys a list of tiles from the scene, if the tiles are associated with the pool. " alt="" coords="139,71,349,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#a5618b5967a8632ffe2d8e43b98ca8dc0" title="Invoke an event with the current event state. " alt="" coords="215,137,273,163"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_wildcard_tile_manager.html#a558733e100ca158233fe06df5a0f59ce" title="Selects the specified tile as a wildcard with the specified language and player. " alt="" coords="121,187,367,243"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_agent.html#a0b8bd05e5893d7ed1dfeb730058a4330" title="Finds a set of words, based on a list of letter tiles. " alt="" coords="118,268,370,309"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_player.html#a5850054dce7050ff763f918e17ded96c" title="Submits the word for checking against the specified langauge&#39;s word list. " alt="" coords="112,333,376,375"/>
+</map>

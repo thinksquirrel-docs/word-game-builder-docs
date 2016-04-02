@@ -35,10 +35,8 @@ Center](https://support.thinksquirrel.com/hc/categories/200174784-Word-Game-Buil
 	- @ref wordgameagent
 	- @ref wordgameplayer
 
-## Links
-
-- [Help Center](https://support.thinksquirrel.com/hc/categories/200174784-Word-Game-Builder)
-- [Community](https://support.thinksquirrel.com/hc/communities/public/topics/200139330-Word-Game-Builder)
+[<b>Product Support</b>](https://support.thinksquirrel.com/hc/sections/204041518)<br/>
+[<b>Community</b>](https://support.thinksquirrel.com/hc/articles/202249104)
 
 <br>
 

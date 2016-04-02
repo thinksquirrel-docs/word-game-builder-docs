@@ -1,0 +1,5 @@
+<map id="CheckWordAsync" name="CheckWordAsync">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a74d46304f773f12c82b4c083696c7855" title="Creates a task on a background thread. " alt="" coords="180,5,389,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a61696d12bced86b6c979f001fa79df78" title="Dispatches an action onto the main thread. " alt="" coords="180,71,389,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a03e573ffc9e274bef8f917c6c5894697" title="Gets the Letter struct for the specified string (Letter.text). " alt="" coords="180,136,389,177"/>
+</map>

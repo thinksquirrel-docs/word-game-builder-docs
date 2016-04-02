@@ -1,0 +1,4 @@
+<map id="Create" name="Create">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a3beb481648a7e11edf80adb71ba5a5cc" title="Unloads a language by identifier. " alt="" coords="113,13,245,39"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#ab4cbfc625a3798f8175fc15ef6621aec" title="Compress the set into compressed form to save memory. Also clears the runtime set. " alt="" coords="293,5,503,47"/>
+</map>

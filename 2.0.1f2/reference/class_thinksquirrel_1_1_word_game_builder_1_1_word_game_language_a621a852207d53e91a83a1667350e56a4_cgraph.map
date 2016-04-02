@@ -1,0 +1,6 @@
+<map id="ExportWordsToCsv" name="ExportWordsToCsv">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#a1f57ebbdd7048e29bb2bb125febebd7d" title="Logs an exception. " alt="" coords="187,5,396,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#ab57b4a4297b7972dbe73dbd6aeeb6bc2" title="Logs a prefixed erorr. " alt="" coords="187,71,396,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a2035ba0afa36778a6f4f664af777e7e6" title="Optimizes a word set for fast searches. This may take a while and should be done offline &#45; not at run..." alt="" coords="187,136,396,177"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#ad9bdc41d57dc8af06a56606485902fe7" title="Logs a prefixed warning. " alt="" coords="444,136,653,177"/>
+</map>

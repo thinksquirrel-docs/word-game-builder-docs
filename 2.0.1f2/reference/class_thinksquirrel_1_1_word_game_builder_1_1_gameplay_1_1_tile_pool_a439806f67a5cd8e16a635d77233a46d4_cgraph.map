@@ -1,0 +1,4 @@
+<map id="DestroyTiles" name="DestroyTiles">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_player.html#a43f6de11c1ae566acf55e0ff9a540386" title="Finds all active players in the scene. " alt="" coords="148,5,420,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#ae0a1971d24b447511741cc2c90595e3f" title="Invokes the event directly. This will never run outside of play mode. " alt="" coords="179,71,389,112"/>
+</map>

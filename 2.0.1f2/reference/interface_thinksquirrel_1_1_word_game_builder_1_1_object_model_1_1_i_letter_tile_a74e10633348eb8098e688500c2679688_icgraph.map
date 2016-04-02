@@ -1,0 +1,3 @@
+<map id="DespawnTile" name="DespawnTile">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_tile_pool.html#a57b5649459feafb1388a3c83d04141e8" title="Resets the tile pool. " alt="" coords="148,5,363,47"/>
+</map>

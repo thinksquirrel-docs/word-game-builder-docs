@@ -1,0 +1,3 @@
+<map id="FindPlayer" name="FindPlayer">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile_1_1_selection_info.html#a9c2a6315569eb7cc81c8731dcdf02611" title="Adds a player that can select this tile, and that will be affected by a tile&#39;s selection (by name)..." alt="" coords="137,5,348,61"/>
+</map>

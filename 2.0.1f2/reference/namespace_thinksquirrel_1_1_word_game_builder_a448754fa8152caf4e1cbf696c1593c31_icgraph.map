@@ -1,0 +1,5 @@
+<map id="WGBEventDelegate" name="WGBEventDelegate">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#a4ef9e2518bb9cc9cdd8788e10ea4db76" title="Sets the event with a MonoBehaviour and method name. " alt="" coords="191,5,400,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#a47379d321a19a51046a19525f592198f" title="Gets the raw delegate value. " alt="" coords="191,71,400,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#a1d1bb3dc8aced774e8d39583356f2dd3" title="Remove the first instance of an event. " alt="" coords="191,136,400,177"/>
+</map>

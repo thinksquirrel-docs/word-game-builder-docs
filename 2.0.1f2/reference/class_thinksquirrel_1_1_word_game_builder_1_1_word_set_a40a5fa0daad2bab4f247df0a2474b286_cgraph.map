@@ -1,0 +1,7 @@
+<map id="FindWordsAsync" name="FindWordsAsync">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a74d46304f773f12c82b4c083696c7855" title="Creates a task on a background thread. " alt="" coords="203,5,412,47"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_async_task.html#a61696d12bced86b6c979f001fa79df78" title="Dispatches an action onto the main thread. " alt="" coords="203,71,412,112"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#aebcb73d5c2851cd30aae66c3cb66977c" title="Gets the psuedo&#45;random number generator for the language. " alt="" coords="176,137,439,193"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#a2035ba0afa36778a6f4f664af777e7e6" title="Optimizes a word set for fast searches. This may take a while and should be done offline &#45; not at run..." alt="" coords="487,151,561,178"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#ad9bdc41d57dc8af06a56606485902fe7" title="Logs a prefixed warning. " alt="" coords="609,144,819,185"/>
+</map>

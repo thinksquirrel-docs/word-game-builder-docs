@@ -1,0 +1,6 @@
+<map id="Copy" name="Copy">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a8d44bcde9835062d569725680e4e10cf" title="Creates a language with the given name and identifier (file name). " alt="" coords="149,13,209,39"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#af9fa1744a6ce7695fcfca4f07cae0aaa" title="Imports the words of a language from a CSV file. " alt="" coords="105,63,252,90"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_game_language.html#a3beb481648a7e11edf80adb71ba5a5cc" title="Unloads a language by identifier. " alt="" coords="300,13,432,39"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_word_set.html#ab4cbfc625a3798f8175fc15ef6621aec" title="Compress the set into compressed form to save memory. Also clears the runtime set. " alt="" coords="480,5,689,47"/>
+</map>

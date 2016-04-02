@@ -1,0 +1,11 @@
+<map id="SimulateInput" name="SimulateInput">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tiles_1_1_letter_tile_1_1_selection_info.html#a4cb9bd9c93febadb526c1213c6c43923" title="Adds all active players in the scene to this tile. " alt="" coords="163,5,373,61"/>
+<area shape="rect" id="node4" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tweening_1_1_tweener.html#a6e2d745cdb7a7b983f861ed6a9a541a7" title="Disposes the tweener object. " alt="" coords="163,86,373,127"/>
+<area shape="rect" id="node5" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_event.html#ae0a1971d24b447511741cc2c90595e3f" title="Invokes the event directly. This will never run outside of play mode. " alt="" coords="163,151,373,193"/>
+<area shape="rect" id="node6" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tweening_1_1_tweener.html#a5c7eefbf162a3c63fafb2e0a33dcfc41" title="Start a tween action. " alt="" coords="163,217,373,258"/>
+<area shape="rect" id="node7" href="$class_thinksquirrel_1_1_word_game_builder_1_1_tweening_1_1_tweener.html#a17a237457e57625296e6b24feb19c60a" title="Stop any currently running tween action. " alt="" coords="163,282,373,323"/>
+<area shape="rect" id="node8" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_wildcard_tile_manager.html#a558733e100ca158233fe06df5a0f59ce" title="Selects the specified tile as a wildcard with the specified language and player. " alt="" coords="155,348,381,404"/>
+<area shape="rect" id="node9" href="$class_thinksquirrel_1_1_word_game_builder_1_1_w_g_b_base.html#ad9bdc41d57dc8af06a56606485902fe7" title="Logs a prefixed warning. " alt="" coords="163,429,373,470"/>
+<area shape="rect" id="node10" href="$interface_thinksquirrel_1_1_word_game_builder_1_1_object_model_1_1_i_selectable_letter_tile.html#a68d25dc137edb98ac45abf2777f68a21" title="Deselects the tile, ignoring tile selection rules. " alt="" coords="158,495,378,551"/>
+<area shape="rect" id="node3" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_player.html#a43f6de11c1ae566acf55e0ff9a540386" title="Finds all active players in the scene. " alt="" coords="429,13,701,54"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="DeselectTile" name="DeselectTile">
+<area shape="rect" id="node2" href="$class_thinksquirrel_1_1_word_game_builder_1_1_gameplay_1_1_word_game_player.html#ab5560143617a2009adec410bbb4531c3" title="Attempts to deselect a tile. If the tile implements ISelectableLetterTile, this follows selection rul..." alt="" coords="147,5,409,47"/>
+</map>
